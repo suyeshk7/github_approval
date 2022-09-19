@@ -2,3 +2,4 @@
 first file
 Test file
 new file folder
+new line
