@@ -5,3 +5,4 @@ new file folder
 new line
 testing again
 new lone
+new test
