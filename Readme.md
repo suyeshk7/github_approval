@@ -106,4 +106,5 @@ DeployDev:
       - name: Deploy
         run: echo I am deploying! 
 ``````````````````````````````````````````````````
+**Pipeline Workflow**
 ![](Capture.PNG)
