@@ -107,4 +107,4 @@ DeployDev:
         run: echo I am deploying! 
 ``````````````````````````````````````````````````
 **Pipeline Workflow**
-![](Capture.PNG)
+![image Link](https://github.com/suyeshk7/github_approval/blob/main/images/Capture.PNG)
